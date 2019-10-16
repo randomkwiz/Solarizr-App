@@ -1,0 +1,2 @@
+# Solarizr-App
+Ejercicio Solarizr
